@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #ffba8e;
+}
+
+nav {
+  background-color: #ffba8e;
+  width: 100%;
+  height: 3rem;
+}
+
+.logo img {
+  width: 7.25rem;
+  height: 8rem;
+  margin: 2% 0% 5% 43%;
+}
+.logo i {
+  font-size: 2.8rem;
+  margin: 7%;
+}
+
+header ul li a {
+  color: #333 !important;
+}
+
+.row-custom {
+  width: auto;
+}
+.row-custom div {
+  margin: 0%;
+}
+.row-custom div h4 {
+  margin: -30% 0% 0% 0%;
+  text-align: center;
+  color: #212121;
+}
+.row-custom div img {
+  max-width: 100%;
+}
+
+.custom-button {
+  margin-left: 38%;
+  max-width: 30%;
+  background-color: #ffba8e !important;
+  border: solid 0.1rem #212121 !important;
+}
+
+.custom-button:hover {
+  margin-left: 38%;
+  max-width: 30%;
+  background-color: transparent !important;
+}
+
+div h4 {
+  text-align: center;
+}
+
+.col-md-12 {
+  background-color: #ffba8e;
+  max-height: 50rem !important;
+}
+.col-md-12 h2 {
+  text-align: center;
+  font-weight: 100;
+}
+
+.col-md-2 {
+  height: 31rem;
+  margin-top: 25%;
+}
+.col-md-2 img {
+  margin-top: 30%;
+}
+
+.custom-12 {
+  background-image: url(img/news-bg-img-427865.png);
+  height: 150px;
+}
+.custom-12 h4 {
+  color: #000000;
+}
+.custom-12 p {
+  color: #333;
+  text-align: center;
+}
+
+.form-control {
+  width: 30% !important;
+  margin: auto;
+}
+
+.custom-button2 {
+  margin-left: 80%;
+  max-width: 30%;
+  background-color: #ffba8e !important;
+  border: solid 0.1rem #212121 !important;
+}
+
+.custom-button2:hover {
+  margin-left: 65%;
+  max-width: 30%;
+  background-color: transparent !important;
+  color: #212121 !important;
+}
+
+.col i {
+  margin: 3%;
+}/*# sourceMappingURL=craft.css.map */
